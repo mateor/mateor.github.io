@@ -52,7 +52,7 @@ it would be good to recognize on sight.
 
 * Understand Universal and Existential instantiation and propositional logic.
 
-This entire section can be done in a weekend, I promise.
+This entire section can be done in a weekend.
 
 **3. Set Theory**
 =================
