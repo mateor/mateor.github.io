@@ -12,7 +12,7 @@ categories: math
 
 
 This list is intended to show the base level math you would have encountered during an undergraduate CS degree. If you do not have a CS degree, this is the math they will teach you and this is the math a prospective job might expect you to understand. It is not exhaustive!
-If you know this list, I believe you would be well prepared for any standard new grad CS job.
+However, if you know this list, I believe you would be well prepared for any standard new grad CS job.
 
 I spent most my the time cutting things off this list.
 I promise, if you know how to program, you can do this.
