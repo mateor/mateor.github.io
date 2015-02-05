@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mateor.io</title>
+    <description>Here be dragoons.
+</description>
+    <link>http://pages.github.com/</link>
+    <atom:link href="http://pages.github.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 05 Feb 2015 18:37:56 -0500</pubDate>
+    <lastBuildDate>Thu, 05 Feb 2015 18:37:56 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Math to support self-taught CS.</title>
+        <description>&lt;h2 id=&quot;foundational-math-concepts&quot;&gt;Foundational Math concepts&lt;/h2&gt;
+
+&lt;h4 id=&quot;get-past-the-fact-you-may-not-have-a-computer-science-degree&quot;&gt;Get past the fact you may not have a Computer Science Degree.&lt;/h4&gt;
+
+&lt;p&gt;This list is intended to show the base level math you would have encountered during an undergraduate CS degree. If you do not have a CS degree, this is the math they will teach you and this is the math a prospective job might expect you to understand. It is not exhaustive!
+If you know this list, I believe you would be well prepared for any standard new grad CS job.&lt;/p&gt;
+
+&lt;p&gt;I spent most my the time cutting things off this list.
+I promise, if you know how to program, you can do this.&lt;/p&gt;
+
+&lt;h3 id=&quot;things-we-are-skipping&quot;&gt;Things We Are Skipping&lt;/h3&gt;
+&lt;p&gt;I am leaving off two big chunks that are useful, but unlikely to be used in your day-today life or in an interview.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Most of calculus, specifically the method of comparing function complexity through limits and derivatives. This is a useful skill but not so critical as to warrant the time it takes to learn it, especially if you have other holes. You can skip this for now.&lt;/li&gt;
+  &lt;li&gt;Induction. If you are comfortable with recursion, you already have a good intuition about what induction is. This is a useful skill as well, but getting comfortable with it is a time investment somewhat equal to the rest of the whole list. Learning it as-needed is okay.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;the-must-have-math-list&quot;&gt;&lt;strong&gt;The Must-Have Math list&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;These are the skills that are must-haves if you wish to approximate an undergraduate CS degree.
+Outside of the probabilities section, they are all meant to be bite-sized. Don’t budget anymore than 15-20 hours per section!
+Even that is more than you need. Several of the below can be well-understood in an evening or two.&lt;/p&gt;
+
+&lt;h1 id=&quot;probabilities&quot;&gt;&lt;strong&gt;1. Probabilities&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;h5 id=&quot;this-is-the-big-one&quot;&gt;&lt;strong&gt;This is the big one&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Terminology
+    &lt;ul&gt;
+      &lt;li&gt;Understand what median, mean and so on. Learn to recognize when problems are asking for one of them.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Combinatorics (not the whole field! Concentrate on the specific in each section.)
+    &lt;ul&gt;
+      &lt;li&gt;combinations and permutations, with or w/o replacement.&lt;/li&gt;
+      &lt;li&gt;This is the big thing on the list because these problems come up in regular programming all the dang time.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Look for questions and practice them. &lt;a href=&quot;http://www.mathsisfun.com/combinatorics/combinations-permutations.html&quot;&gt;Here is a good link &lt;/a&gt; that gives an overview of the types of questions that
+it would be good to recognize on sight.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;logic&quot;&gt;&lt;strong&gt;2. Logic&lt;/strong&gt;&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Terminology, again.&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;You should understand truth tables.&lt;/li&gt;
+      &lt;li&gt;You must learn the basic rules of inference. This is some small memorization. But you should know what it means when someone says transitive or commutative. Someday they will, I promise.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Understand Universal and Existential instantiation and propositional logic.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This entire section can be done in a weekend, I promise.&lt;/p&gt;
+
+&lt;h1 id=&quot;set-theory&quot;&gt;&lt;strong&gt;3. Set Theory&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;Again, don’t fret. Just get comfortable with the terminology and you are almost there.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Know what a union and an intersection are.&lt;/li&gt;
+  &lt;li&gt;Be able to apply the algebra of sets.
+    &lt;ul&gt;
+      &lt;li&gt;Don’t worry! If you learned the rules of inference, they are the same.&lt;/li&gt;
+      &lt;li&gt;This stuff really does come up but it is actually really simple. You don’t even have to memorize all the formulas just know the basic rules and it becomes clear.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;how-to-reduce-equations&quot;&gt;&lt;strong&gt;4. How to reduce equations&lt;/strong&gt;&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;You perhaps already know how to do this. There are two rule sets you must know for CS math.
+    &lt;ul&gt;
+      &lt;li&gt;Exponent rules (how to multiply, add, divide things with exponents)&lt;/li&gt;
+      &lt;li&gt;Log Rules (how to change bases. There are a handful, learn them)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;log-rules&quot;&gt;&lt;strong&gt;5. Log rules&lt;/strong&gt;&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Yeah, I put it twice :). Logs are a fundamental building block of CS.
+If you kinda sorta know what a logarithm is, maybe could fudge your way to explaining bases…not good enough.
+You can learn it all in one hour, it will pay off for your whole career.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;number-theory&quot;&gt;&lt;strong&gt;6. Number Theory&lt;/strong&gt;&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;This may not always come up but it certainly can and it is certainly useful in lots of ways.&lt;/li&gt;
+  &lt;li&gt;Counting
+    &lt;ul&gt;
+      &lt;li&gt;Learn what makes a number prime, work through Euclid’s GCD algorithm.&lt;/li&gt;
+      &lt;li&gt;Terminology again. You should know what prime, relatively prime are.&lt;/li&gt;
+      &lt;li&gt;Basic rules of odd/even. When is a number odd, when is it even?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Modulus
+    &lt;ul&gt;
+      &lt;li&gt;If you understand modulus and know what it means for two numbers to be congruent, I consider that a win.
+  *RSA&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;After you learn the two above bits, work through the RSA algorithm. If you can understand how RSA work, then you should be good on Number Theory.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;summations&quot;&gt;&lt;strong&gt;7. Summations&lt;/strong&gt;&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;This has scary looking syntax, but all it means is adding a sequence of numbers!
+    &lt;ul&gt;
+      &lt;li&gt;Recognize a geometric and arithmetic sequence when you see one.&lt;/li&gt;
+      &lt;li&gt;Know how to convert that sequence into a concrete number for some n.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;graphs-and-trees&quot;&gt;&lt;strong&gt;8. Graphs and Trees&lt;/strong&gt;&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Congratulations, if you are this far into the list you are basically done.
+Especially because you don’t have to learn any new math to work on graphs and trees. This is often the last section of CS math courses.&lt;/li&gt;
+  &lt;li&gt;You may already know this material and if not, well you have graduated from self-study math and begun self-study algorithms!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;This list is meant to be manageable. I did not want to tell you to go pick up a high school trig book and work your way through the entire history of math. That is too much! You are probably already teaching yourself to program, you don’t need an additional career’s worth of work dumped in your lap.&lt;/p&gt;
+
+&lt;p&gt;The truth about math is this: &lt;strong&gt;Math is fun and everything new you learn about it will help you to better understand complex things.&lt;/strong&gt;
+But even if you don’t think it is fun, you can still learn it without it consuming your life.&lt;/p&gt;
+
+&lt;h1 id=&quot;supporting-material&quot;&gt;&lt;strong&gt;Supporting material&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;If I was designing a self-study course around this list, I would plan 2-3 weekends for probability and one week for every other section.&lt;/p&gt;
+
+&lt;p&gt;The last bit of good news is that there is a college course that teaches you all of these subjects in one semester. It is called Discrete Math. The even better news is that probably a third of the course is spent on induction, which I allowed you to skip!&lt;/p&gt;
+
+&lt;p&gt;There is a book by &lt;a href=&quot;http://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen/dp/0072899050&quot;&gt;Rosen about discrete math&lt;/a&gt;.
+Do one section a week (skipping induction and anything else not on this list) and you will have conquered this list in 3-4 months.&lt;/p&gt;
+
+&lt;p&gt;You can do it. I know, because I did it myself. Good luck!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Feb 2015 11:41:51 -0500</pubDate>
+        <link>http://pages.github.com/math/2015/02/05/bare-minimum-math-concepts.html</link>
+        <guid isPermaLink="true">http://pages.github.com/math/2015/02/05/bare-minimum-math-concepts.html</guid>
+        
+        
+        <category>math</category>
+        
+      </item>
+    
+  </channel>
+</rss>
