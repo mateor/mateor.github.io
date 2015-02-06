@@ -6,8 +6,8 @@
 </description>
     <link>http://pages.github.com/</link>
     <atom:link href="http://pages.github.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Feb 2015 22:40:01 -0500</pubDate>
-    <lastBuildDate>Thu, 05 Feb 2015 22:40:01 -0500</lastBuildDate>
+    <pubDate>Thu, 05 Feb 2015 22:44:28 -0500</pubDate>
+    <lastBuildDate>Thu, 05 Feb 2015 22:44:28 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -129,16 +129,15 @@ Especially because you don’t have to learn any new math to work on graphs and 
   &lt;li&gt;You may already know this material and if not, well you have graduated from self-study math and begun self-study algorithms!&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;bonus&quot;&gt;**Bonus&lt;/h1&gt;
+&lt;h1 id=&quot;bonus&quot;&gt;&lt;strong&gt;Bonus&lt;/strong&gt;&lt;/h1&gt;
 &lt;ul&gt;
-  &lt;li&gt;Be able to convert (even if it takes a bit) between binary and decimal numbers.
+  &lt;li&gt;Be able to convert (even if it takes a little while) between binary and decimal numbers.
     &lt;ul&gt;
-      &lt;li&gt;I am not sure how much this counts as math but we should all be able to do it.&lt;/li&gt;
+      &lt;li&gt;This is at worst just practicing how to multiply.
+## Conclusion&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
 
 &lt;p&gt;This list is meant to be manageable. I did not want to tell you to go pick up a high school trig book and work your way
 through the entire history of math. That is too much! You are probably already teaching yourself to program, you don’t need an additional career’s worth of work dumped in your lap.&lt;/p&gt;

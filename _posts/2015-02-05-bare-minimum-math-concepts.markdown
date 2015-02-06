@@ -95,11 +95,10 @@ You can learn it all in one hour, it will pay off for your whole career.
 Especially because you don’t have to learn any new math to work on graphs and trees. This is often the last section of CS math courses.
 * You may already know this material and if not, well you have graduated from self-study math and begun self-study algorithms!
 
-**Bonus
+**Bonus**
 ===============================
-* Be able to convert (even if it takes a bit) between binary and decimal numbers.
-    * I am not sure how much this counts as math but we should all be able to do it.
-
+* Be able to convert (even if it takes a little while) between binary and decimal numbers.
+    * This is at worst just practicing how to multiply.
 ## Conclusion
 
 This list is meant to be manageable. I did not want to tell you to go pick up a high school trig book and work your way
