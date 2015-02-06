@@ -39,17 +39,15 @@ Even that is more than you need. Several of the below can be well-understood in 
     * Understand what median, mean and so on. Learn to recognize when problems are asking for one of them.
 * Combinatorics (not the whole field! Concentrate on the specific in each section.)
     * combinations and permutations, with or w/o replacement.
-    * This is the big thing on the list because these problems come up in regular programming all the dang time.
+    * This emphasized because these problems come up in regular programming all the dang time.
 *  Look for questions and practice them. [Here is a good link ](http://www.mathsisfun.com/combinatorics/combinations-permutations.html) that gives an overview of the types of questions that
 it would be good to recognize on sight.
 
 **2. Logic**
 ================
 * Terminology, again.
-
-    * You should understand truth tables.
-    * You must learn the basic rules of inference. This is some small memorization. But you should know what it means when someone says transitive or commutative. Someday they will, I promise.
-
+* You should understand truth tables and the operators (and, or, not, implications, xor etc.)
+* You must learn the basic rules of inference. This is some small memorization. But you should know what it means when someone says transitive or commutative. Someday they will, I promise.
 * Understand Universal and Existential instantiation and propositional logic.
 
 This entire section can be done in a weekend.
@@ -98,7 +96,11 @@ You can learn it all in one hour, it will pay off for your whole career.
 Especially because you don’t have to learn any new math to work on graphs and trees. This is often the last section of CS math courses.
 * You may already know this material and if not, well you have graduated from self-study math and begun self-study algorithms!
 
-
+**Bonus
+===============================
+* Be able to convert (even if it takes a bit) between binary and decimal numbers.
+    * I am not sure how much this counts as math but we should all be able to do it.
+    
 ## Conclusion
 
 This list is meant to be manageable. I did not want to tell you to go pick up a high school trig book and work your way
