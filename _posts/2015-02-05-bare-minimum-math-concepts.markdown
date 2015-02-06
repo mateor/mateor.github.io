@@ -59,8 +59,7 @@ Again, don’t fret. Just get comfortable with the terminology and you are almos
 
 * Know what a union and an intersection are.
 * Be able to apply the algebra of sets.
-    * Don’t worry! If you learned the rules of inference, they are the same.
-* This stuff really does come up but it is actually pretty simple. You don’t even have to memorize all the formulas just know the basic rules.
+    * Don’t worry! If you learned the rules of inference, they are basically the same.
 
 **4. How to reduce equations**
 ============================
@@ -100,7 +99,7 @@ Especially because you don’t have to learn any new math to work on graphs and 
 ===============================
 * Be able to convert (even if it takes a bit) between binary and decimal numbers.
     * I am not sure how much this counts as math but we should all be able to do it.
-    
+
 ## Conclusion
 
 This list is meant to be manageable. I did not want to tell you to go pick up a high school trig book and work your way
