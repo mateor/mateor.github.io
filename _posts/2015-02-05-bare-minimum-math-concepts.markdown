@@ -81,14 +81,10 @@ You can learn it all in one hour, it will pay off for your whole career.
 * This may not always come up but it certainly can and it is useful in lots of ways.
 * Counting
     * Terminology again. You should know what prime, relatively prime are.
-    * Learn what makes a number prime, work through Euclid’s GCD algorithm.
     * Basic rules of odd/even. When is a number odd, when is it even?
 
 * Modulus
     * If you understand modulus and know what it means for two numbers to be congruent, I consider that a win.
-    *RSA
-* After you learn the two above bits, work through the RSA algorithm. You don't need to compute it or be able to derive inverses.
- If you can understand how RSA works, then you should be good on Number Theory.
 
 **7. Summations**
 ========================

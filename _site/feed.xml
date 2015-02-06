@@ -6,8 +6,8 @@
 </description>
     <link>http://pages.github.com/</link>
     <atom:link href="http://pages.github.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Feb 2015 21:04:39 -0500</pubDate>
-    <lastBuildDate>Thu, 05 Feb 2015 21:04:39 -0500</lastBuildDate>
+    <pubDate>Thu, 05 Feb 2015 22:27:40 -0500</pubDate>
+    <lastBuildDate>Thu, 05 Feb 2015 22:27:40 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -110,18 +110,14 @@ You can learn it all in one hour, it will pay off for your whole career.&lt;/li&
   &lt;li&gt;Counting
     &lt;ul&gt;
       &lt;li&gt;Terminology again. You should know what prime, relatively prime are.&lt;/li&gt;
-      &lt;li&gt;Learn what makes a number prime, work through Euclid’s GCD algorithm.&lt;/li&gt;
       &lt;li&gt;Basic rules of odd/even. When is a number odd, when is it even?&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Modulus
     &lt;ul&gt;
-      &lt;li&gt;If you understand modulus and know what it means for two numbers to be congruent, I consider that a win.
-  *RSA&lt;/li&gt;
+      &lt;li&gt;If you understand modulus and know what it means for two numbers to be congruent, I consider that a win.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;After you learn the two above bits, work through the RSA algorithm. You don’t need to compute it or be able to derive inverses.
- If you can understand how RSA works, then you should be good on Number Theory.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;summations&quot;&gt;&lt;strong&gt;7. Summations&lt;/strong&gt;&lt;/h1&gt;
