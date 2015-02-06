@@ -62,13 +62,13 @@ Again, don’t fret. Just get comfortable with the terminology and you are almos
 * Know what a union and an intersection are.
 * Be able to apply the algebra of sets.
     * Don’t worry! If you learned the rules of inference, they are the same.
-    * This stuff really does come up but it is actually really simple. You don’t even have to memorize all the formulas just know the basic rules and it becomes clear.
+* This stuff really does come up but it is actually pretty simple. You don’t even have to memorize all the formulas just know the basic rules.
 
 **4. How to reduce equations**
 ============================
 * You perhaps already know how to do this. There are two rule sets you must know for CS math.
     * Exponent rules (how to multiply, add, divide things with exponents)
-    * Log Rules (how to change bases. There are a handful, learn them)
+    * Log Rules (how to change bases etc. There are a handful, learn them.)
 
 **5. Log rules**
 ==================
@@ -78,16 +78,17 @@ You can learn it all in one hour, it will pay off for your whole career.
 
 **6. Number Theory**
 ========================
-* This may not always come up but it certainly can and it is certainly useful in lots of ways.
+* This may not always come up but it certainly can and it is useful in lots of ways.
 * Counting
-    * Learn what makes a number prime, work through Euclid’s GCD algorithm.
     * Terminology again. You should know what prime, relatively prime are.
+    * Learn what makes a number prime, work through Euclid’s GCD algorithm.
     * Basic rules of odd/even. When is a number odd, when is it even?
 
 * Modulus
     * If you understand modulus and know what it means for two numbers to be congruent, I consider that a win.
     *RSA
-* After you learn the two above bits, work through the RSA algorithm. If you can understand how RSA work, then you should be good on Number Theory.
+* After you learn the two above bits, work through the RSA algorithm. You don't need to compute it or be able to derive inverses.
+ If you can understand how RSA works, then you should be good on Number Theory.
 
 **7. Summations**
 ========================
@@ -104,7 +105,8 @@ Especially because you don’t have to learn any new math to work on graphs and 
 
 ## Conclusion
 
-This list is meant to be manageable. I did not want to tell you to go pick up a high school trig book and work your way through the entire history of math. That is too much! You are probably already teaching yourself to program, you don’t need an additional career’s worth of work dumped in your lap.
+This list is meant to be manageable. I did not want to tell you to go pick up a high school trig book and work your way
+through the entire history of math. That is too much! You are probably already teaching yourself to program, you don’t need an additional career’s worth of work dumped in your lap.
 
 The truth about math is this: **Math is fun and everything new you learn about it will help you to better understand complex things.**
 But even if you don't think it is fun, you can still learn it without it consuming your life.
@@ -113,7 +115,9 @@ But even if you don't think it is fun, you can still learn it without it consumi
 ==================
 If I was designing a self-study course around this list, I would plan 2-3 weekends for probability and one week for every other section.
 
-The last bit of good news is that there is a college course that teaches you all of these subjects in one semester. It is called Discrete Math. The even better news is that probably a third of the course is spent on induction, which I allowed you to skip!
+The last bit of good news is that there is a college course that teaches you all of these subjects in one semester.
+It is called Discrete Math and it is a survey course that touches on everything on the above list.
+The even better news is that probably a third of the course is spent on induction, which I allowed you to skip!
 
 There is a book by [Rosen about discrete math](http://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen/dp/0072899050).
 Do one section a week (skipping induction and anything else not on this list) and you will have conquered this list in 3-4 months.
