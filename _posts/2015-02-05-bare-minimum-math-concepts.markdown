@@ -99,6 +99,7 @@ Especially because you don’t have to learn any new math to work on graphs and 
 ===============================
 * Be able to convert (even if it takes a little while) between binary and decimal numbers.
     * This is at worst just practicing how to multiply.
+
 ## Conclusion
 
 This list is meant to be manageable. I did not want to tell you to go pick up a high school trig book and work your way
