@@ -9,7 +9,7 @@ categories: CS Rotorcraft AI
 
 I co-authored a paper last year that was recently presented at the [29th AAAI](http://www.aaai.org/Conferences/AAAI/aaai15.php) (Association for the Advancement
  of Artificial Intelligence) conference in Austin the weekend of 1/28/15.
- Depending on what I choose to do this year, it may be the only computer sciecce paper
+ Depending on what I choose to do this year, it may be the only computer science paper
 I have any part in.
 
 The project was a collaboration with some really great engineers and researchers. I was
