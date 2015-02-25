@@ -17,6 +17,24 @@ However, if you know this list, I believe you would be well prepared for any sta
 I spent most my the time cutting things off this list.
 I promise, if you know how to program, you can do this.
 
+__UPDATE__
+
+_I had some response to this post, most good but some critical. The critical portion
+mostly rests on the fact that plenty of programmers don't know large portions of this
+list, yet can still do their jobs well._
+
+_This is completely true._
+
+_This list is aimed at programmers who do not have a CS degree but would like
+to know what math they might have missed by not getting a formal education.
+This is a very different thing from learning how to program. My benchmark for
+adding items to this list was whether it would be encountered in a high-level
+analysis of algorithms course. I think everything on this list meets that measure._
+
+_If you disagree, please let me know. I would love to continue to shorten this list!_
+
+##__The Math__
+
 ###Things We Are Skipping
 I am leaving off two big chunks that are useful, but unlikely to be used in your day-today life or in an interview.
 
